@@ -1,9 +1,9 @@
 
-Number Guessing Game
+## Number Guessing Game
 
 A simple command-line game built with Python where the player must guess a randomly generated number between 1 and 100 before running out of attempts. The number of attempts depends on the selected difficulty level.
 
-Features
+## Features
 
 * Randomly generates a number between 1 and 100
 * Multiple difficulty levels:
